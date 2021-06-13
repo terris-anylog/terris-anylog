@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @terris-anylog
-- 👀 I’m interested in Flask+Tailwind+HTMX
+- 👋 Hi! I’m @terris-anylog
+- 👀 I’m interested in Exlir+Phoenix+LiveView and Flask+Tailwind+HTMX
